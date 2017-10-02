@@ -38,7 +38,7 @@ OK = 200
 # Environments specific, constant values #
 ##########################################
 TEAM = ["devops", "netops", "sysops"]
-TARGET_API_URL = "https://34.214.65.7/api/v4/" # dependent on
+TARGET_API_URL = "https://xx.xx.xx.xx/api/v4/" # dependent on
 
 ##################################
 # Functions for dealing with git #
